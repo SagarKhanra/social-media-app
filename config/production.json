@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://sagar:sagar12345@cluster0.ljwhu.mongodb.net/devconnector?retryWrites=true&w=majority&appName=Cluster0",
+  "jwtSecret": "spidermonkey",
+  "githubClientId": "Iv1.55ffbb05dbe2f785",
+  "githubSecret": "cbfe94bef160037eb20bb0d50eb59f61153d0906"
+}
